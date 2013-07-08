@@ -2,7 +2,5 @@
   "name": "3D printen",
   "sections": [
     { "section":"basis" },
-    { "section":"hardware" },
-    { "section":"Toekomst" }
   ]
 }
