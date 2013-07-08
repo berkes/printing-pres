@@ -22,3 +22,20 @@
 * Hardware
 * Toekomst
 
+!SLIDE bullets
+
+* Professioneel
+* RepRap
+
+!SLIDE bullets incremental
+
+* 2005 door Dr Adrian Bowyer, mechanical engineering aan de University of Bath in de UK
+* GPL
+* Zelf-replicerend
+* Verlopen octrooien
+
+!SLIDE 
+
+* [Thingiverse](http://www.thingiverse.com/).
+* [Piratebay](http://www.fucktimkuik.org/)
+* [Github](https://github.com/search?q=extension%3Astl&type=Code&s=indexed).
