@@ -7,7 +7,7 @@
 
 * Bèr `berkes` Kessels
 * @berkes - http://berk.es
-* Webdeveloper, geen econoom.
+* Webdeveloper, geen productontwikkelaar.
 
 !SLIDE bullets incremental
 # Deze presentatie
